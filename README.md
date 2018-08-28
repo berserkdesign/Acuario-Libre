@@ -2,15 +2,21 @@
 Diseño de tapa para acuario Aquajet NANO 2.5 
 
 
-Mi aportación a la acuariofilia y a la automatización con arduino.
+Mi aportación: 
+- A la acuariofilia
+- A FreeCAD
+- A la automatización con arduino.
 
 Puntos a tratar
 
-1. Oxigenación de agua
-2. Rellenado de agua.
-3. Ciclo de luz día y noche.
+1. Diseño Libre de un Acuario
+2. Iluminación.
+3. Filtro AlgaeScrubber
+4. Ciclo de luz día y noche.  
+5. Oxigenación de agua.  
+6. Rellenado de agua.  
 
-
+![Acuario Libre](https://github.com/berserkdesign/Acuario-Libre/blob/master/Demo.PNG)
 
 
 
